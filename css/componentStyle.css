@@ -403,12 +403,6 @@ loader, but  {
 	transition-duration: 0.25s;
 }
 
-.template_input button:hover {
-	box-shadow: 0px 0px 10px #ccc, 0px 0px 10px #ccc;
-}
-.template_input button:active {
-	transform: translate(2px,2px);
-}
 .template_input .login_heading h2 {
     font-size:  40px;
     font-family: 'Amatic SC', cursive;
