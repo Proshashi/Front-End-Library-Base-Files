@@ -393,7 +393,7 @@ loader, but  {
     border-bottom: 1px var(--main-bg-color) solid;
     outline: none;
 }
-.template_input but {
+.template_input button {
 	padding: 0.5em 10vw;
 	font-family: arial;
 	outline: none;
@@ -405,7 +405,6 @@ loader, but  {
 
 .template_input button:hover {
 	box-shadow: 0px 0px 10px #ccc, 0px 0px 10px #ccc;
-
 }
 .template_input button:active {
 	transform: translate(2px,2px);
